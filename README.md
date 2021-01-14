@@ -1,4 +1,4 @@
-# chucknorris
+# vue ui for chucknorris api
 
 ## Project setup
 ```
